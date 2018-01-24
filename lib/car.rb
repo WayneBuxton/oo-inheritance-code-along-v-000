@@ -3,7 +3,7 @@ class Car
 
     attr_accessor :wheel_size
 
-  def initialize(wheel_size,number)
+  def initialize(wheel_size,wheel_number)
 
   end
 
