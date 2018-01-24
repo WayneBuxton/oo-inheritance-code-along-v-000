@@ -7,7 +7,7 @@ class Car
 
   end
 
-  def go 
+  def go
   end
 
 end
