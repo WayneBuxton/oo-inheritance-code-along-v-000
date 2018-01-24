@@ -8,6 +8,7 @@ class Car
   end
 
   def go
+    "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 
 end
